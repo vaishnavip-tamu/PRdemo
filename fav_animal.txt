@@ -1,4 +1,6 @@
 Add your favorite animal below!
+dog
+cat
 golden retriever
 Dogs
 Turtle
