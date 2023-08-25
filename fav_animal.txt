@@ -13,3 +13,4 @@ dog :)
 turtle
 DOGGO
 Tiger
+Person
