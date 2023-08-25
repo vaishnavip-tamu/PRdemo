@@ -13,5 +13,6 @@ dog :)
 turtle
 DOGGO
 Tiger
+Person
 black bear
 Parrot
