@@ -20,3 +20,4 @@ Cheetah
 Person
 black bear
 Parrot
+Griffin
