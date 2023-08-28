@@ -23,6 +23,7 @@ Person
 black bear
 Parrot
 Griffin
+Panda
 turtle
 Golden retrievers
 Grizzly bear
