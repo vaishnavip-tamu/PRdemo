@@ -1,4 +1,5 @@
 Add your favorite animal below!
+Bird
 angry birds
 Capybara
 dog
@@ -22,3 +23,7 @@ black bear
 Parrot
 Griffin
 turtle
+Golden retrievers
+Grizzly bear
+Racoon
+Penguins!!
