@@ -9,7 +9,7 @@ dog
 cat
 golden retriever
 Dogs
-Turtle
+Turtles
 Rabbit
 Elephants and Baby Penguins! (Maybe Sea Turtles too...)
 Sloth
