@@ -35,3 +35,4 @@ chickens
 Peacock!
 Sloth
 wolves
+Peacock
