@@ -1,4 +1,7 @@
 Add your favorite animal below!
+Tiger
+Lion
+Chicken
 Anaconda
 Jaguar
 Dogs
@@ -36,5 +39,6 @@ chickens
 Peacock!
 Sloth
 wolves
-Elephants are the saviours of forest ecosystem
 Goblin
+seals
+Elephants are the saviours of forest ecosystem
