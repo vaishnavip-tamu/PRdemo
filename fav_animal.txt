@@ -1,4 +1,5 @@
 Add your favorite animal below!
+Chicken
 Anaconda
 Jaguar
 Dogs
@@ -37,3 +38,4 @@ Peacock!
 Sloth
 wolves
 seals
+Elephants are the saviours of forest ecosystem
