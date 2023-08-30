@@ -39,5 +39,6 @@ chickens
 Peacock!
 Sloth
 wolves
+Goblin
 seals
 Elephants are the saviours of forest ecosystem
