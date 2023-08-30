@@ -36,3 +36,4 @@ chickens
 Peacock!
 Sloth
 wolves
+seals
