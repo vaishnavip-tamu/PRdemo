@@ -37,4 +37,5 @@ chickens
 Peacock!
 Sloth
 wolves
+seals
 Elephants are the saviours of forest ecosystem
