@@ -39,6 +39,7 @@ Penguins!!
 chickens
 Peacock!
 Sloth
+Spider
 wolves
 Goblin
 seals
