@@ -23,6 +23,7 @@ dog :)
 turtle
 DOGGO
 Tiger
+Otter!
 Turtle
 Turtle2
 Cheetah
@@ -40,6 +41,10 @@ chickens
 Peacock!
 Sloth
 wolves
+Deer
+Chameleon
+Spider
+wolves
 Goblin
 seals
 Elephants are the saviours of forest ecosystem
@@ -47,3 +52,5 @@ Pandas
 Kangaroos
 Panda
 Sloth
+Doggo
+Cats are Love
