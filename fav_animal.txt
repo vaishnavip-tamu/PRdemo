@@ -1,4 +1,9 @@
 Add your favorite animal below!
+Dolphin
+Tiger
+Lion
+Chicken
+Anaconda
 Jaguar
 Dogs
 Kangaroo
@@ -37,3 +42,10 @@ Sloth
 wolves
 Deer
 Chameleon
+Spider
+wolves
+Goblin
+seals
+Elephants are the saviours of forest ecosystem
+Pandas
+Kangaroos
