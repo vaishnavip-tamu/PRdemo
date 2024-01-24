@@ -9,7 +9,7 @@ Repo for students to practice creating a pull request after forking a repo
 
     *Note that if you are already listed as a collaborator on the repo, or it is your own repo, you can skip this step in practice.
 
-2. Clone the forked GitHub repository from your GitHub account (`git clone https://github.com/your-username/STAT624_PRdemo.git`), replacing `your-username` with your actual GitHub username.
+2. Clone the forked GitHub repository from your GitHub account (`git clone https://github.com/sbruce23/PRdemo.git`), replacing `your-username` with your actual GitHub username.
 
 3. In a terminal window located at the folder, run:
 
@@ -33,13 +33,13 @@ Repo for students to practice creating a pull request after forking a repo
 
 6. Create a pull request on GitHub to merge your changes from your forked repository into the original repository:
 
-    a. Navigate to your forked repository on GitHub by going to the URL: [https://github.com/your-username/STAT624_PRdemo](https://github.com/your-username/STAT624_PRdemo), replacing `your-username` with your actual GitHub username.
+    a. Navigate to your forked repository on GitHub by going to the URL: [https://github.com/your-username/PRdemo](https://github.com/your-username/PRdemo), replacing `your-username` with your actual GitHub username.
 
     b. At the top of your repository, locate and click on the "Pull Requests" tab.
 
     c. Click the green "New Pull Request" button.
 
-    d. On the "Compare changes" page, ensure that the "base repository" is set to `sbruce23/STAT624_PRdemo` and the "base" branch is set to `main`.
+    d. On the "Compare changes" page, ensure that the "base repository" is set to `sbruce23/PRdemo` and the "base" branch is set to `main`.
 
     e. In the "head repository" drop-down, select your forked repository.
 
