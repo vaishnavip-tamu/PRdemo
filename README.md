@@ -27,7 +27,7 @@ Repo for students to practice creating a pull request after forking a repo
     
     b. `git add .` (Should add `fav_animal.txt` to the staging area; run `git status` if you want to confirm this)
     
-    c. `git commit -m 'added favorite animal <insert name here>' `
+    c. `git commit -m 'added favorite animal <insert name here>' ` replacing `<insert name here>` with the name of your favorite animal
     
     d. `git push --set-upstream origin dev` (set up and use a classic security token if needed to be able to do this)
 
