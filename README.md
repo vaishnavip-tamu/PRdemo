@@ -25,7 +25,7 @@ Repo for students to practice creating a pull request after forking a repo
 
     a. `git status` (should show that `fav_animal.txt` has been modified but is not in the staging area)
     
-    b. `git add .` (Should add `fav_animal.txt` to the staging area)
+    b. `git add .` (Should add `fav_animal.txt` to the staging area; run `git status` if you want to confirm this)
     
     c. `git commit -m 'added favorite animal <insert name here>' `
     
