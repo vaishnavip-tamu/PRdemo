@@ -1,4 +1,4 @@
-# STAT624_PRdemo
+# PRdemo
 Repo for students to practice creating a pull request after forking a repo
 
 1. First, make a fork of the GitHub repo.
