@@ -3,7 +3,7 @@ Repo for students to practice creating a pull request after forking a repo
 
 1. First, make a fork of the GitHub repo.
 
-    a. Visit URL: [https://github.com/sbruce23/STAT624_PRdemo](https://github.com/sbruce23/STAT624_PRdemo)
+    a. Visit URL: [https://github.com/sbruce23/PRdemo/](https://github.com/sbruce23/PRdemo/)
 
     b. In the top right corner of the screen, click on the down arrow next to "Fork" and select "Create a new fork." This creates an independent copy of the GitHub repo, which is then saved as a repository under your GitHub account.
 
