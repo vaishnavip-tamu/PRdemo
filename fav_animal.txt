@@ -13,7 +13,9 @@ Kangaroo
 Bird
 angry birds
 Capybara
+Whale
 dog
+bat
 cat
 golden retriever
 Dogs
@@ -60,9 +62,13 @@ leopard1
 My new fav animal is lion
 Panda
 Sloth
+Eagle
 Doggo
 Cats are Love
+Manatees
+Koala
 Lion
 Manatees
 Bunnies
 Camel
+Gazelle
