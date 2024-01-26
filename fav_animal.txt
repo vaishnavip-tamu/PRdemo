@@ -71,6 +71,7 @@ Koala
 Lion
 Manatees
 Bunnies
+Guinea Pigs
 tiger
 Dragon
 My dog Hercules!
