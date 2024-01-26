@@ -13,7 +13,9 @@ Kangaroo
 Bird
 angry birds
 Capybara
+Whale
 dog
+bat
 cat
 golden retriever
 Dogs
@@ -21,8 +23,7 @@ Turtles
 Rabbit
 Elephants and Baby Penguins! (Maybe Sea Turtles too...)
 Sloth
-Baby Yoda
-dog :)
+dog
 turtle
 DOGGO
 Tiger
@@ -60,9 +61,16 @@ leopard1
 My new fav animal is lion
 Panda
 Sloth
+Eagle
 Doggo
 Cats are Love
+Manatees
+Seal
+Koala
 Lion
 Manatees
 Bunnies
 Orca
+Gorilla
+Camel
+Gazelle
