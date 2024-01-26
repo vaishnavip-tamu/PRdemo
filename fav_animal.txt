@@ -13,7 +13,9 @@ Kangaroo
 Bird
 angry birds
 Capybara
+Whale
 dog
+bat
 cat
 golden retriever
 Dogs
@@ -62,6 +64,8 @@ Panda
 Sloth
 Doggo
 Cats are Love
+Manatees
+Koala
 Lion
 Manatees
 Bunnies
