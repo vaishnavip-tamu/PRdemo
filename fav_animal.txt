@@ -71,6 +71,7 @@ Koala
 Lion
 Manatees
 Bunnies
+Mosquitoes
 Guinea Pigs
 tiger
 Dragon
