@@ -73,6 +73,7 @@ Koala
 Lion
 Manatees
 Bunnies
+RAT
 Leatherback sea turtles
 Mosquitoes
 Guinea Pigs
