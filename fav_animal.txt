@@ -70,4 +70,5 @@ Koala
 Lion
 Manatees
 Bunnies
+Camel
 Gazelle
