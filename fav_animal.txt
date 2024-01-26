@@ -13,6 +13,7 @@ Kangaroo
 Bird
 angry birds
 Capybara
+Whale
 dog
 cat
 golden retriever
